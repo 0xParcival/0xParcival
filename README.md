@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-[![0xParcival's GitHub | Stats](https://stats.quira.sh/0xParcival/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=0xParcival)
 [![An image of @0xparcival's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xparcival)](https://holopin.io/@0xparcival)
+[![0xParcival's GitHub | Stats](https://stats.quira.sh/0xParcival/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=0xParcival)
+
